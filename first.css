@@ -1,0 +1,40 @@
+#main{
+  width: 700px;
+  height: 300px;
+  background-color: rgba(1, 142, 207, 0.822);
+  color: aliceblue;
+  text-align: center;
+  margin-left: 350px;
+  margin-top: 300px;
+  border-radius: 100px;
+  font-family: ar;
+}
+.name_box{
+ margin-top: 15px;
+ border-radius: 10px;
+ padding: 10px;
+ background-color: rgb(255, 239, 16);
+ 
+}
+.password_box{
+  margin-top: 15px;
+  border-radius: 10px;
+  padding: 9px;
+  background-color: rgb(255, 239, 16);
+  
+ }
+#button{
+  height: 50px;
+  width: 70px;
+  padding: 10px;
+  background-color: aqua;
+  border-radius: 12px;
+}
+#button:hover{
+  cursor: pointer;
+  padding:10px;
+  background-color: black;
+  color: bisque;
+
+}
+
